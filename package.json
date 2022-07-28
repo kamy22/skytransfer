@@ -56,7 +56,7 @@
     "less-loader": "^10.0.1",
     "libsodium": "^0.7.10",
     "libsodium-wrappers": "^0.7.10",
-    "npm": "^8.6.0",
+    "npm": "^8.15.1",
     "path": "^0.12.7",
     "prettier": "2.6.2",
     "react-svg-loader": "^3.0.3",
